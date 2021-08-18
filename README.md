@@ -1,2 +1,0 @@
-# NewChieftyProject
-Test Description
